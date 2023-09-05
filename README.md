@@ -1,0 +1,2 @@
+# embeddingd
+distributed embedding server
